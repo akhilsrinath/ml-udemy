@@ -1,2 +1,2 @@
-# ml-udemy
-"Machine Learning A-Z", Udemy, Kirill Eremenko and Hadelin De Ponteves
+# Machine Learning A-Z with Python, Udemy
+Kirill Eremenko and Hadelin De Ponteves
